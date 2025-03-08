@@ -1,7 +1,8 @@
-# PID Issuer (URI-based Identifier)
+# Natural Person Identitification Data (PID Issuer) (URI-based Identifier)
 
 ## Description
-A trust service issuing and signing **Person Identification Data (PID)** based on verified identity attributes provided by an accredited registration authority. The issuer ensures the integrity and authenticity of issued PID credentials and supports verification through relevant status information services (e.g., revocation lists, validity checks) in compliance with **Regulation (EU) No 910/2014 (eIDAS)**. This may include **secure storage or management** of associated private keys on behalf of the holder.
+
+A trust service issuing and signing natural **Person Identification Data (PID)** based on verified identity attributes provided by an accredited registration authority. The issuer ensures the integrity and authenticity of issued PID credentials and supports verification through relevant status information services (e.g., revocation lists, validity checks) in compliance with **Regulation (EU) No 910/2014 (eIDAS)**. This may include **secure storage or management** of associated private keys on behalf of the holder.
 
 ## Requirements
 
