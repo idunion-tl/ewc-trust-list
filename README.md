@@ -21,7 +21,7 @@ This repository hosts the Trust List for the EWC Large Scale Pilots based on ETS
 
 ## Trust List
 
-The EWC trust list is available at: https://ewc-consortium.github.io/ewc-trust-list/EWC-TL.
+The EWC trust list is available at: [https://ewc-consortium.github.io/ewc-trust-list/EWC-TL](https://ewc-consortium.github.io/ewc-trust-list/EWC-TL).
 
 **NOTE:** Any changes to the above Trust List shall only be via a PR. Contact ITB or use the EWC #wallet-support channel for getting any changes merged or approved.
 
