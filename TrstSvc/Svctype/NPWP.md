@@ -4,11 +4,11 @@
 
 A **Natural Person Wallet Provider** is a trust service responsible for issuing and managing **EU Digital Identity Wallets** for individuals. These wallets enable secure **storage, retrieval, and sharing** of electronic identification credentials and qualified attestations of attributes. 
 
-The provider ensures compliance with Regulation (EU) No 910/2014 (eIDAS) and [EU Regulation 2024/2977](https://eur-lex.europa.eu/eli/reg_impl/2024/2979/oj), guaranteeing **secure authentication, interoperability, and user control** over personal data.
+The provider ensures compliance with Regulation (EU) No 910/2014 (eIDAS) amended by [EU Regulation 2024/1183](https://eur-lex.europa.eu/eli/reg/2024/1183/oj/eng), and [EU Regulation 2024/2977](https://eur-lex.europa.eu/eli/reg/2024/1183/oj/eng))  guaranteeing **secure authentication, interoperability, and user control** over personal data.
 
 ## Requirements
 
-The provider must comply with **[EU Regulation 2024/2977](https://eur-lex.europa.eu/eli/reg_impl/2024/2979/oj)**, ensuring:
+The provider must ensure the following:
 
 - Conform to EU Digital Identity Wallet architecture and security standards.
 - Strong user authentication and cryptographic protections.
