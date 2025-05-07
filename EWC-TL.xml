@@ -683,6 +683,12 @@
                         <ServiceName>
                             <Name xml:lang="en">Digidentity PID</Name>
                         </ServiceName>
+                        <ServiceDigitalIdentity>
+                            <DigitalId>
+                                <X509Certificate>MIICbTCCAhKgAwIBAgIBADAKBggqhkjOPQQDAjBfMQswCQYDVQQGEwJOTDEUMBIGA1UECgwLRGlnaWRlbnRpdHkxFDASBgNVBAsMC1NlbGYgU2lnbmVkMSQwIgYDVQQDDBtTZWxmIFNpZ25lZCBmb3IgZWNfa2V5X3BhaXIwHhcNMjUwNTA3MTM1NjMzWhcNMjgwNTA3MTM1NjMzWjBfMQswCQYDVQQGEwJOTDEUMBIGA1UECgwLRGlnaWRlbnRpdHkxFDASBgNVBAsMC1NlbGYgU2lnbmVkMSQwIgYDVQQDDBtTZWxmIFNpZ25lZCBmb3IgZWNfa2V5X3BhaXIwWTATBgcqhkjOPQIBBggqhkjOPQMBBwNCAAQQfVym6aHcyset8x1wsiJTYLdNEMHC0kk2/rgTIW2tbf0jmZecHeTGS8SLQIvQIByrvUPnzc2E6KehkUENLySZo4G+MIG7MA8GA1UdEwEB/wQFMAMBAf8wHQYDVR0OBBYEFKwzoKxYxY8UzMect01PxH5uFASeMIGIBgNVHSMEgYAwfoAUrDOgrFjFjxTMx5y3TU/Efm4UBJ6hY6RhMF8xCzAJBgNVBAYTAk5MMRQwEgYDVQQKDAtEaWdpZGVudGl0eTEUMBIGA1UECwwLU2VsZiBTaWduZWQxJDAiBgNVBAMMG1NlbGYgU2lnbmVkIGZvciBlY19rZXlfcGFpcoIBADAKBggqhkjOPQQDAgNJADBGAiEA8Gm/2LAmI2BoJfsydg69lvStq8xB/wSxz/sjWi464wECIQD3XsJ82tJ3v1sCbrCRLM5z8HCMx+nr9iq2Se+iVQzWyg==</X509Certificate>
+                                <X509SKI>84bd836f86b1c086205fe6fa0c7d39e254d4e15c</X509SKI>
+                            </DigitalId>
+                        </ServiceDigitalIdentity>
                         <ServiceStatus>https://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/granted/</ServiceStatus>
                         <StatusStartingTime>2025-03-04T22:00:00Z</StatusStartingTime>
                         <SchemeServiceDefinitionURI>
