@@ -735,7 +735,7 @@
                     <ServiceInformation>
                         <ServiceTypeIdentifier>https://ewc-consortium.github.io/ewc-trust-list/TrstSvc/Svctype/VCISS</ServiceTypeIdentifier>
                         <ServiceName>
-                            <Name xml:lang="en">Buda Castle Ticket Issuer</Name>
+                            <Name xml:lang="en">Buda Castle Ticket DEV Issuer</Name>
                         </ServiceName>
                         <ServiceStatus>https://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/granted/</ServiceStatus>
                         <StatusStartingTime>2025-05-01T00:00:00Z</StatusStartingTime>
