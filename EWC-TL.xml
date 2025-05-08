@@ -733,7 +733,7 @@
             <TSPServices>
                 <TSPService>
                     <ServiceInformation>
-                        <ServiceTypeIdentifier>https://ewc-consortium.github.io/ewc-trust-list/TrstSvc/Svctype/VCISS</ServiceTypeIdentifier>
+                        <ServiceTypeIdentifier>http://uri.etsi.org/TrstSvc/Svctype/EAA</ServiceTypeIdentifier>
                         <ServiceName>
                             <Name xml:lang="en">Buda Castle Ticket DEV Issuer</Name>
                         </ServiceName>
