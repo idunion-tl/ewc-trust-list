@@ -802,8 +802,8 @@
                 <TSPAddress>
                     <PostalAddresses>
                         <PostalAddress xml:lang="en">
-                            <StreetAddress>Eschersheimer Landstraße 6</StreetAddress>
-                            <Locality>Frankfurt am Main</Locality>
+                            <StreetAddress>Rheinstrasse 5</StreetAddress>
+                            <Locality>Langen (Hessen)</Locality>
                             <PostalCode>60322</PostalCode>
                             <CountryName>DE</CountryName>
                         </PostalAddress>
