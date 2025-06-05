@@ -10,7 +10,7 @@ Make sure you have the following:
 
 - ✅ Legal entity and trade name
 - ✅ Complete postal and electronic address
-- ✅ A valid **X.509 Certificate** with Subject Key Identifier (SKI)/Distinguished Name or DID or JWK
+- ✅ A valid **X.509 Certificate** or a **Decentralised Identifier (DID)** or a **JWK**
 - ✅ Public endpoints (wallet URLs or verifiable credential APIs)
 - ✅ Correct **Service Type Identifier** from [supported types](#supported-service-types)
 
