@@ -795,5 +795,48 @@
                 </TSPService>
             </TSPServices>
         </TrustServiceProvider>
+        <TrustServiceProvider>
+            <TSPInformation>
+                <TSPName><Name xml:lang="en">Digital and Population Data Services Agency (DVV)</Name></TSPName>
+                <TSPTradeName><Name xml:lang="en">Digital and Population Data Services Agency (DVV)</Name></TSPTradeName>
+                <TSPAddress>
+                    <PostalAddresses>
+                        <PostalAddress xml:lang="en">
+                            <StreetAddress>Lintulahdenkuja 2</StreetAddress>
+                            <Locality>Helsinki</Locality>
+                            <PostalCode>00530</PostalCode>
+                            <CountryName>FI</CountryName>
+                        </PostalAddress>
+                    </PostalAddresses>
+                    <ElectronicAddress>
+                        <URI xml:lang="en">mailto:digihenkilollisyys@dvv.fi</URI>
+                    </ElectronicAddress>
+                </TSPAddress>
+                <TSPInformationURI>
+                    <URI xml:lang="en">https://dvv.fi/en/</URI>
+                </TSPInformationURI>
+            </TSPInformation>
+            <TSPServices>
+                <TSPService>
+                    <ServiceInformation>
+                        <ServiceTypeIdentifier>https://ewc-consortium.github.io/ewc-trust-list/TrstSvc/Svctype/NPWP</ServiceTypeIdentifier>
+                        <ServiceName><Name xml:lang="en">EUDI Wallet Demo</Name></ServiceName>
+                        <ServiceDigitalIdentity>
+                            <DigitalId>
+                                <X509SubjectName>Public Key</X509SubjectName>
+                            </DigitalId>
+                            <DigitalId>
+                                <X509SKI>MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAExsyL4dKJkgLWQKNTly+4HRUiVPhbyU8hRz1h7Kx+iwSMdADjZrr9JNv3JdJbZPElFpvcDuH7b05K/NcuCP78DA==</X509SKI>
+                            </DigitalId>
+                        </ServiceDigitalIdentity>
+                        <ServiceStatus>https://uri.etsi.org/TrstSvc/TrustedList/Svcstatus/granted/</ServiceStatus>
+                        <StatusStartingTime>2025-03-15T22:00:00Z</StatusStartingTime>
+                        <ServiceSupplyPoints>
+                            <ServiceSupplyPoint>https://wiki.dvv.fi/spaces/EDI/pages/235522018/2.+DVV+n+esimerkkisovellus+Finnish+EUDI+Wallet+Demo+mobile+application</ServiceSupplyPoint>
+                        </ServiceSupplyPoints>
+                    </ServiceInformation>
+                </TSPService>
+            </TSPServices>
+        </TrustServiceProvider>
     </TrustServiceProviderList>
 </TrustServiceStatusList>
